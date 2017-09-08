@@ -2,6 +2,11 @@
 **Open Source Project Name Checker** from now on: **OSPNC** is a simple web-service that checks if your new
 project name is already taken on some of most popular open-source communities.
 
+## TO DO
+1. Add check for twitter account.
+
+See list of original TO DO's [here](TODO.md).
+
 ## Use
 1. [Fork](https://github.com/LogIN-/ospnc/fork) / [Download](https://github.com/LogIN-/ospnc/archive/master.zip) this repo to your `localhost`.
 2. `$ npm install` to install node.js packages and dependencies.
